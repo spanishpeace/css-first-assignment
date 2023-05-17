@@ -1,0 +1,11 @@
+.container{
+    background-color: black;
+    color: white;
+}
+ul>li{
+    display: inline-block;
+    margin-left: 100px;
+}
+li>a{
+    color: red;
+}
